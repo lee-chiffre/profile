@@ -2,5 +2,4 @@ My mission statement
 
 To enhance and contribute to the security, availability, accessibility and contingency of the bitcoin networks infrastructure.
 
-Security and availability by hosting, maintaining, guarding diverse and distributed bitcoin nodes and servers using secure hardware and software backed by physical security. Increase the
-accessibility and contingency of the bitcoin network by interfacing with multiple networks including the internet, darknets, ham radio, sattelite. To overcome network failture or censorship for contingency of the bitcoin network from technological, natural, and political disasters.
+Security and availability by hosting, maintaining, guarding diverse and distributed bitcoin nodes and servers using secure hardware and software backed by physical security. Increase the accessibility and contingency of the bitcoin network by interfacing with multiple networks including the internet, darknets, ham radio, sattelite. To overcome network failture or censorship for contingency of the bitcoin network from technological, natural, and political disasters.
