@@ -1,3 +1,5 @@
 lee.chiffre@secmail.pro
-node.admin@secmail.pro for things relating to servers I host.
+LeeChiffre@airmail.cc
+I have two email addresses for backup in case one goes down or is unreachable.
+PGP Key will be updated soon with new email addresses. I no longer use node.admin@secmail.pro
 PGP Key 97F0 C3AE 985A 191D A055 6BCA A825 29E2 025B DE35
