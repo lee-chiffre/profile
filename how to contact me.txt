@@ -3,5 +3,3 @@ LeeChiffre@airmail.cc
 I have two email addresses for backup in case one goes down or is unreachable.
 My PGP Key will be updated soon with new the email addresses. I no longer use node.admin@secmail.pro
 PGP Key 97F0 C3AE 985A 191D A055 6BCA A825 29E2 025B DE35
-
-Donation address bc1q0z587jhvrjs30l79937turd2ynlqv2uvlvhl8d
