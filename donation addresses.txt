@@ -2,7 +2,7 @@ Donations are not expected but are welcome. Donations go to funding operations a
 
 So far donations have been used to help fund the hardware for Node2.0 and most of the hardware needed for a second node of the same setup. This has also funded a backup drive for fireproof and EMP proof blockchain backup. And a spare RAID drive for each of the two nodes, a security camera, secure network equipment to help guard the nodes from physical and cyber threats. 
 
-Estimate of $100 would cover remaining cost to complete hardware setup for the second Node. For the second Nodes UPS and some wiring. If there are no donations I still plan to improve and grow operations as much as I can with paying for expenses if any myself.
+Estimate of $100 would cover remaining cost to complete hardware setup for the second Node. More specific, the second Nodes UPS and some wiring. There might also be a cost for the ElectrumX bounty. See my mesage from February 26 for details. If there are no donations I still plan to improve and grow operations as much as I can with paying for expenses if any myself.
 
 Bitcoin bc1qegcp7d4we7exhm0nkcsw4m5wlnfv2tn79tzkd0
 Monero 8C9VsoS6KPAdPEqP5PuPqKTgeJj1rJAzo23BbTTbF45dUj3BDMMVH9RXbQ1RmnXyDKcpdTQpcqYY3hFWLWyYa6u263b5Dzv
