@@ -4,5 +4,7 @@ So far donations have been used to help fund the hardware for Node2.0 and most o
 
 Estimate of $100 would cover remaining cost to complete hardware setup for the second Node. More specific, the second Nodes UPS and some wiring. There might also be a cost for the ElectrumX bounty. See my mesage from February 26 for details. If there are no donations I still plan to improve and grow operations as much as I can with paying for expenses if any myself.
 
+If you want to donate but want your donation to go for something in particular you can email me with your request.
+
 Bitcoin bc1qegcp7d4we7exhm0nkcsw4m5wlnfv2tn79tzkd0
 Monero 8C9VsoS6KPAdPEqP5PuPqKTgeJj1rJAzo23BbTTbF45dUj3BDMMVH9RXbQ1RmnXyDKcpdTQpcqYY3hFWLWyYa6u263b5Dzv
